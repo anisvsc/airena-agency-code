@@ -1,3 +1,4 @@
+"use client";
 import AddBlog from "@/components/AdminPanel/AddBlog";
 
 function AddContract() {
