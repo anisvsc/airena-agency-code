@@ -22,5 +22,5 @@ export default async function StreamPage({ params }) {
     );
   }
 
-  return <StreamContentp stream={stream} src={src} streamId={streamId} />;
+  return <StreamContent stream={stream} src={src} streamId={streamId} />;
 }
